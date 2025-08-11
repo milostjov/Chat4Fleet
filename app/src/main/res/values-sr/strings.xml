@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat4Fleet</string>
+
+    <string name="change_user">Promeni korisnika</string>
+    <string name="add_vehicle_id">Dodaj vozilo</string>
+    <string name="no_available_vehicle_ids">Nema dostupnih vozila</string>
+    <string name="search_vehicle_ids">Pretraži vozila</string>
+    <string name="search">Pretraga</string>
+    <string name="enter_vehicle_id">Unesi broj vozila</string>
+    <string name="enter_initial_comment">Unesi početni komentar</string>
+    <string name="save">Sačuvaj</string>
+    <string name="cancel">Otkaži</string>
+    <string name="change_username">Promeni korisničko ime</string>
+    <string name="enter_new_username">Unesi novo korisničko ime</string>
+    <string name="username_saved">Ime je sačuvano!</string>
+    <string name="add_comment">Dodaj komentar</string>
+    <string name="enter_comment">Unesi komentar</string>
+    <string name="edit_comment">Izmeni komentar</string>
+    <string name="no_available_comments">Nema dostupnih komentara</string>
+    <string name="author_with_date">Autor: %1$s (%2$s)</string>
+    <string name="unknown">Nepoznato</string>
+    <string name="edited_by_with_date">Izmenio: %1$s (%2$s)</string>
+    <string name="delete_confirmation">Potvrda brisanja</string>
+    <string name="delete_comment_confirmation">Da li ste sigurni da želite da obrišete ovaj komentar?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="comments_for_account">Komentari za %1$s</string>
+    <string name="account_list">Lista konta</string>
+    <string name="back">Nazad</string>
+</resources>

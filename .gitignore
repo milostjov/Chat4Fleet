@@ -1,0 +1,22 @@
+# IntelliJ / Android Studio
+*.iml
+.idea/
+!.idea/codeStyles/ # (ako želiš da deliš stil kodiranja)
+.DS_Store
+
+# Gradle
+.gradle/
+local.properties
+
+# Build output
+/build/
+*/build/
+
+# Captures i generisani fajlovi
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore fajlovi (čuvaj lokalno)
+*.jks
+*.keystore
